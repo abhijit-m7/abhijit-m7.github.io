@@ -37,7 +37,7 @@ html::-webkit-scrollbar-thumb{
 }
 
 body{
-  background: linear-gradient(90deg,#74ebd5,#ACB6E5 100%);
+  background: linear-gradient(90deg,#000000,#434343 100%);
 /*   background:#111; */
   overflow-x: hidden;
   padding-left: 35rem;
